@@ -1,0 +1,8 @@
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\bin\Debug\koleksiyonlar_algoritma_patika.exe.config
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\bin\Debug\koleksiyonlar_algoritma_patika.exe
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\bin\Debug\koleksiyonlar_algoritma_patika.pdb
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\obj\Debug\koleksiyonlar_algoritma_patika.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\obj\Debug\koleksiyonlar_algoritma_patika.csproj.SuggestedBindingRedirects.cache
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\obj\Debug\koleksiyonlar_algoritma_patika.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\obj\Debug\koleksiyonlar_algoritma_patika.exe
+C:\Users\gokha\Desktop\PROJLER\koleksiyonlar_algoritma_patika\koleksiyonlar_algoritma_patika\obj\Debug\koleksiyonlar_algoritma_patika.pdb
